@@ -1,0 +1,1 @@
+# STSRemoteGit
